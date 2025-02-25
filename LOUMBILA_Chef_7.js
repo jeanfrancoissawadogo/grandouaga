@@ -1,0 +1,1 @@
+var json_LOUMBILA_Chef_7 = {"type":"FeatureCollection","name":"LOUMBILA_Chef_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nom":"Loumbila","EQpolice":0.0,"Nom_admin":"Loumbila"},"geometry":{"type":"Point","coordinates":[-1.378449,12.523505]}}]}
